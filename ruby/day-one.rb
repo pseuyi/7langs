@@ -6,5 +6,5 @@ puts "Hello, world"
 
 10.times { |i| puts "freda" }
 
-
+10.times { |i| puts "this is sentence number #{i+1}" }
 
